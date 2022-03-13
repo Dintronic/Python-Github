@@ -1,0 +1,5 @@
+01;Diego;(11)9.5555-5555;diego@gmail.com 
+02;Pedro;(11)9.6666-6666;pedro@gmail.com 
+03;Bianca;(11)9.7777-7777;bianca@gmail.com 
+04;Rogério;(11)9.8888-8888;rogerio@gmail.com 
+05;Vanessa;(11)9.9999-9999;vaness@gmail.com 
